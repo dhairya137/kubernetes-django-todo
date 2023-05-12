@@ -6,7 +6,7 @@ metadata:
 spec:
   containers:
   - name: todo-app
-    image: trainwithshubham/django-todo:latest
+    image: dhairya137/django-todo:latest
     ports:
     - containerPort: 8000
 
